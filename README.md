@@ -1,16 +1,89 @@
-# React + Vite
+# 🛍️ Loja Drip
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto de front-end desenvolvido como trabalho final do curso **Full Stack - Geração Tech 3.0**.
+A aplicação simula um e-commerce de roupas, com foco em experiência do usuário, navegação fluida e organização de componentes em React.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologias utilizadas
 
-## React Compiler
+* React
+* Vite
+* Tailwind CSS
+* Axios
+* React Router
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* 🛒 Carrinho de compras
+* 🔍 Filtro e busca de produtos
+* 📦 Listagem de produtos
+* 👕 Página individual de produto
+* 🔐 Sistema de login (simulado)
+
+---
+
+## 💡 Destaques do projeto
+
+Os principais pontos fortes da aplicação são:
+
+* Sistema de **filtro de produtos**, proporcionando melhor experiência de navegação
+* Implementação do **carrinho de compras**, com gerenciamento de estado
+* Estrutura organizada utilizando boas práticas com React
+
+---
+
+## 🖥️ Como executar o projeto
+
+```bash
+# Clone o repositório
+git clone https://github.com/Michelle-Vitoriano/drip-store.git
+
+# Acesse a pasta
+cd drip-store
+
+# Instale as dependências
+npm install
+
+# Execute o projeto
+npm run dev
+```
+
+---
+
+## 📸 Preview
+
+### 🏠 Home
+
+<img src="./images/home.png" width="300"/>
+
+### 👕 Produto
+
+<img src="./images/produto.png" width="300"/>
+
+### 🛒 Carrinho
+
+<img src="./images/carrinho.png" width="300"/>
+
+---
+
+## 📌 Status do projeto
+
+✅ Finalizado
+
+---
+
+## 👩‍💻 Desenvolvido por
+
+**Michelle Vitoriano**
+
+* LinkedIn: https://linkedin.com/in/michelle-vitoriano
+* GitHub: https://github.com/Michelle-Vitoriano
+
+---
+
+## 📎 Observações
+
+Este projeto foi desenvolvido com fins educacionais, como parte da formação em desenvolvimento full stack.
