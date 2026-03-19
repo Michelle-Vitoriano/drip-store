@@ -75,6 +75,14 @@ npm run dev
 
 ---
 
+## 🌐 Deploy
+
+A aplicação está disponível online:
+
+👉 https://drip-store-ro4vx00gv-michelle-vitoriano.vercel.app/
+
+---
+
 ## 👩‍💻 Desenvolvido por
 
 **Michelle Vitoriano**
